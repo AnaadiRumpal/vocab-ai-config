@@ -1,5 +1,6 @@
 {
   "searchUrl": "https://vocabulary-ai-drak.onrender.com/api/shortcut/lookup",
   "saveUrl": "https://vocabulary-ai-drak.onrender.com/api/shortcut/capture",
+  "wordsLink": "https://vocabulary-ai-drak.onrender.com/words"
   "configVersion": 1
 }
